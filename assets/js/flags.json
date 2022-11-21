@@ -1,107 +1,107 @@
 [
   {
     "name": "Alemanha",
-    "path": "./assets/images/flags/Alemanha.jpg"
+    "path": "./assets/images/flags/alemanha.jpg"
   },
   {
     "name": "Arábia-Saudita",
-    "path": "./assets/images/flags/Arábia-Saudita.jpg"
+    "path": "./assets/images/flags/arabia.jpg"
   },
   {
     "name": "Argentina",
-    "path": "./assets/images/flags/Argentina.jpg"
+    "path": "./assets/images/flags/argentina.jpg"
   },
   {
     "name": "Austrália",
-    "path": "./assets/images/flags/Austrália.jpg"
+    "path": "./assets/images/flags/australia.jpg"
   },
   {
     "name": "Bélgica",
-    "path": "./assets/images/flags/Bélgica.jpg"
+    "path": "./assets/images/flags/belgica.jpg"
   },
   {
     "name": "Brasil",
-    "path": "./assets/images/flags/Brasil.jpg"
+    "path": "./assets/images/flags/brasil.jpg"
   },
   {
-    "name": "Colômbia",
-    "path": "./assets/images/flags/Colômbia.jpg"
+    "name": "Camarões",
+    "path": "./assets/images/flags/camaroes.jpg"
   },
   {
-    "name": "Coreia-do-Sul",
-    "path": "./assets/images/flags/Coreia-do-Sul.jpg"
+    "name": "Canada",
+    "path": "./assets/images/flags/canada.jpg"
   },
   {
-    "name": "Costa-Rica",
-    "path": "./assets/images/flags/Costa-Rica.jpg"
+    "name": "Catar",
+    "path": "./assets/images/flags/catar.jpg"
+  },
+  {
+    "name": "Coréia do Sul",
+    "path": "./assets/images/flags/skorea.jpg"
   },
   {
     "name": "Croácia",
-    "path": "./assets/images/flags/Croácia.jpg"
+    "path": "./assets/images/flags/croatia.jpg"
   },
   {
     "name": "Dinamarca",
-    "path": "./assets/images/flags/Dinamarca.jpg"
+    "path": "./assets/images/flags/dinamarca.jpg"
   },
   {
-    "name": "Egito",
-    "path": "./assets/images/flags/Egito.jpg"
+    "name": "Ecuador",
+    "path": "./assets/images/flags/ecuador.jpg"
   },
   {
     "name": "Espanha",
-    "path": "./assets/images/flags/Espanha.jpg"
+    "path": "./assets/images/flags/espanha.jpg"
+  },
+  {
+    "name": "Estados Unidos",
+    "path": "./assets/images/flags/eua.jpg"
   },
   {
     "name": "França",
-    "path": "./assets/images/flags/França.jpg"
+    "path": "./assets/images/flags/franca.jpg"
+  },
+  {
+    "name": "Gales",
+    "path": "./assets/images/flags/gales.jpg"
+  },
+  {
+    "name": "Ghana",
+    "path": "./assets/images/flags/ghana.jpg"
+  },
+  {
+    "name": "Holanda",
+    "path": "./assets/images/flags/holanda.jpg"
   },
   {
     "name": "Inglaterra",
-    "path": "./assets/images/flags/Inglaterra.jpg"
+    "path": "./assets/images/flags/inglaterra.jpg"
   },
   {
     "name": "Irã",
-    "path": "./assets/images/flags/Irã.jpg"
-  },
-  {
-    "name": "Islândia",
-    "path": "./assets/images/flags/Islândia.jpg"
+    "path": "./assets/images/flags/iran.jpg"
   },
   {
     "name": "Japão",
-    "path": "./assets/images/flags/Japão.jpg"
+    "path": "./assets/images/flags/japao.jpg"
   },
   {
     "name": "Marrocos",
-    "path": "./assets/images/flags/Marrocos.jpg"
+    "path": "./assets/images/flags/marrocos.jpg"
   },
   {
     "name": "México",
-    "path": "./assets/images/flags/México.jpg"
-  },
-  {
-    "name": "Nigéria",
-    "path": "./assets/images/flags/Nigéria.jpg"
-  },
-  {
-    "name": "Panamá",
-    "path": "./assets/images/flags/Panamá.jpg"
-  },
-  {
-    "name": "Peru",
-    "path": "./assets/images/flags/Peru.jpg"
+    "path": "./assets/images/flags/mexico.jpg"
   },
   {
     "name": "Polônia",
-    "path": "./assets/images/flags/Polônia.jpg"
+    "path": "./assets/images/flags/polonia.jpg"
   },
   {
     "name": "Portugal",
-    "path": "./assets/images/flags/Portugal.jpg"
-  },
-  {
-    "name": "Rússia",
-    "path": "./assets/images/flags/Rússia.jpg"
+    "path": "./assets/images/flags/portugal.jpg"
   },
   {
     "name": "Senegal",
@@ -109,22 +109,18 @@
   },
   {
     "name": "Sérvia",
-    "path": "./assets/images/flags/Sérvia.jpg"
-  },
-  {
-    "name": "Suécia",
-    "path": "./assets/images/flags/Suécia.jpg"
+    "path": "./assets/images/flags/serbia.jpg"
   },
   {
     "name": "Suiça",
-    "path": "./assets/images/flags/Suiça.jpg"
+    "path": "./assets/images/flags/suica.jpg"
   },
   {
     "name": "Tunísia",
-    "path": "./assets/images/flags/Tunísia.jpg"
+    "path": "./assets/images/flags/tunisia.jpg"
   },
   {
     "name": "Uruguai",
-    "path": "./assets/images/flags/Uruguai.jpg"
+    "path": "./assets/images/flags/uruguai.jpg"
   }
 ]
