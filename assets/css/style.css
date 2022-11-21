@@ -50,6 +50,7 @@ body {
 }
 #display-image {
   width: 100%;
+  min-width: 350px;
   min-height: 205px;
   height: 380px;
   /* background-image: url("../images/1.jpg"); */
