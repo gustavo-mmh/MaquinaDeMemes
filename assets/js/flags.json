@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Alemanha",
+    "path": "./assets/images/flags/Alemanha.jpg"
+  },
+  {
+    "name": "Arábia-Saudita",
+    "path": "./assets/images/flags/Arábia-Saudita.jpg"
+  },
+  {
+    "name": "Argentina",
+    "path": "./assets/images/flags/Argentina.jpg"
+  },
+  {
+    "name": "Austrália",
+    "path": "./assets/images/flags/Austrália.jpg"
+  },
+  {
+    "name": "Bélgica",
+    "path": "./assets/images/flags/Bélgica.jpg"
+  },
+  {
+    "name": "Brasil",
+    "path": "./assets/images/flags/Brasil.jpg"
+  },
+  {
+    "name": "Colômbia",
+    "path": "./assets/images/flags/Colômbia.jpg"
+  },
+  {
+    "name": "Coreia-do-Sul",
+    "path": "./assets/images/flags/Coreia-do-Sul.jpg"
+  },
+  {
+    "name": "Costa-Rica",
+    "path": "./assets/images/flags/Costa-Rica.jpg"
+  },
+  {
+    "name": "Croácia",
+    "path": "./assets/images/flags/Croácia.jpg"
+  },
+  {
+    "name": "Dinamarca",
+    "path": "./assets/images/flags/Dinamarca.jpg"
+  },
+  {
+    "name": "Egito",
+    "path": "./assets/images/flags/Egito.jpg"
+  },
+  {
+    "name": "Espanha",
+    "path": "./assets/images/flags/Espanha.jpg"
+  },
+  {
+    "name": "França",
+    "path": "./assets/images/flags/França.jpg"
+  },
+  {
+    "name": "Inglaterra",
+    "path": "./assets/images/flags/Inglaterra.jpg"
+  },
+  {
+    "name": "Irã",
+    "path": "./assets/images/flags/Irã.jpg"
+  },
+  {
+    "name": "Islândia",
+    "path": "./assets/images/flags/Islândia.jpg"
+  },
+  {
+    "name": "Japão",
+    "path": "./assets/images/flags/Japão.jpg"
+  },
+  {
+    "name": "Marrocos",
+    "path": "./assets/images/flags/Marrocos.jpg"
+  },
+  {
+    "name": "México",
+    "path": "./assets/images/flags/México.jpg"
+  },
+  {
+    "name": "Nigéria",
+    "path": "./assets/images/flags/Nigéria.jpg"
+  },
+  {
+    "name": "Panamá",
+    "path": "./assets/images/flags/Panamá.jpg"
+  },
+  {
+    "name": "Peru",
+    "path": "./assets/images/flags/Peru.jpg"
+  },
+  {
+    "name": "Polônia",
+    "path": "./assets/images/flags/Polônia.jpg"
+  },
+  {
+    "name": "Portugal",
+    "path": "./assets/images/flags/Portugal.jpg"
+  },
+  {
+    "name": "Rússia",
+    "path": "./assets/images/flags/Rússia.jpg"
+  },
+  {
+    "name": "Senegal",
+    "path": "./assets/images/flags/Senegal.jpg"
+  },
+  {
+    "name": "Sérvia",
+    "path": "./assets/images/flags/Sérvia.jpg"
+  },
+  {
+    "name": "Suécia",
+    "path": "./assets/images/flags/Suécia.jpg"
+  },
+  {
+    "name": "Suiça",
+    "path": "./assets/images/flags/Suiça.jpg"
+  },
+  {
+    "name": "Tunísia",
+    "path": "./assets/images/flags/Tunísia.jpg"
+  },
+  {
+    "name": "Uruguai",
+    "path": "./assets/images/flags/Uruguai.jpg"
+  }
+]

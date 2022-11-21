@@ -1,0 +1,182 @@
+:root {
+  --orange: #de5d12;
+  --green: #4caf50;
+  --darkGreen: #357c37;
+  --blue: #3f51b5;
+  --yellow: #ffeb3b;
+  --gold: #ffc107;
+}
+body {
+  background-color: var(--green);
+}
+.container {
+  width: 100%;
+  color: white;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.app {
+  border: 12px solid var(--yellow);
+  border-radius: 10px;
+  padding: 50px;
+  padding-top: 10px;
+  margin-top: 10px;
+  background-color: var(--blue);
+}
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 0 20px;
+  flex-direction: column;
+}
+.img-logo {
+  width: 40%;
+  filter: invert(2);
+}
+.app-image {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+}
+.app-photo-picker {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100px;
+}
+#display-image {
+  width: 100%;
+  height: 300px;
+  /* background-image: url("../images/1.jpg"); */
+  background-position: center;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+.colorPicker {
+  display: flex;
+  align-content: space-around;
+  justify-content: space-between;
+  align-items: center;
+  margin: 8px;
+}
+.text-box {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+textarea {
+  width: 100%;
+  resize: vertical;
+  border: none;
+  padding: 10px;
+  overflow: hidden;
+  height: 60px;
+  outline: none;
+  font-weight: 600;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+#memes-list {
+  width: 100%;
+  font-size: large;
+  font-family: sans-serif;
+  color: black;
+}
+#image-input {
+  display: block;
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  /* line-height: 1.5; */
+  color: #212529;
+  background-color: var(--yellow);
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border-radius: 0.375rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+#image-input:hover:not(:disabled):not([readonly])::file-selector-button {
+  background-color: var(--darkGreen);
+}
+#image-input::file-selector-button {
+  padding: 0.375rem 0.75rem;
+  margin: -0.375rem -0.75rem;
+  -webkit-margin-end: 0.75rem;
+  margin-inline-end: 0.75rem;
+  color: white;
+  background-color: var(--green);
+  pointer-events: none;
+  border-color: inherit;
+  border-style: solid;
+  border-width: 0;
+  border-inline-end-width: 1px;
+  border-radius: 0;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.download {
+  width: 100%;
+}
+#btn-download {
+  width: 100%;
+  font-size: 20px;
+  font-weight: bolder;
+  padding: 10px;
+  background: var(--gold);
+}
+
+/* footer */
+.footer {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer a {
+  color: #ffffff;
+  text-decoration: none;
+}
+.social-midias {
+  display: flex;
+  justify-content: center;
+}
+.social:hover {
+  transform: scale(1.1);
+}
+.social {
+  transform: scale(0.8);
+  transition: 0.5s;
+  color: white;
+}
+.social-ln:hover {
+  color: #0a66c2;
+}
+.social-em:hover {
+  color: #ffcc2a;
+}
+.social-gh:hover {
+  color: black;
+}
+.social-fb:hover {
+  background: linear-gradient(24deg, #6600ff 0%, #15a3fa 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.social-in:hover {
+  background: linear-gradient(
+    to bottom left,
+    #6600ff 0%,
+    #cc0066,
+    #febc00 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
